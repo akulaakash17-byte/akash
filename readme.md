@@ -1,6 +1,7 @@
  1  directory contains files in it.
- cd - change direcotry
-ls - listing
+ files has .extensions like .md,.html,.pdf
+ cd = change direcotrpwd =print working directory
+ls - 
    - ls -a = lists hidden files
    - ls -l = lists files with principles & octal codes
    - ls -la = lits hidden files with octal codes
